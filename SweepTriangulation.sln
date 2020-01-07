@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SweepTriangulation", "SweepTriangulation.csproj", "{FDB095C6-EA9C-490B-AFF7-2E01E019273A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDB095C6-EA9C-490B-AFF7-2E01E019273A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDB095C6-EA9C-490B-AFF7-2E01E019273A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDB095C6-EA9C-490B-AFF7-2E01E019273A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDB095C6-EA9C-490B-AFF7-2E01E019273A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7A0E45A-8697-4078-9C1D-DBB354428ECA}
+	EndGlobalSection
+EndGlobal
